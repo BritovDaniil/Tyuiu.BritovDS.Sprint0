@@ -1,6 +1,4 @@
-﻿using System.Security.Cryptography.X509Certificates;
-
-using Tyuiu.BritovDS.Sprint0.Task2.V0.Lib;
+﻿using Tyuiu.BritovDS.Sprint0.Task2.V0.Lib;
 namespace Tyuiu.BritovDS.Sprint0.Task2.V0.Test
 {
     [TestClass]
